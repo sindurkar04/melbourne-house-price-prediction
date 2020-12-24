@@ -2,7 +2,7 @@
 ## Installation
 The dataset is in .csv format. The project is built using anaconda jupyter notebook.
 ## Data Description
-The dataset has 34857 rows and 21 columns. The columns are - Suburb, Address, Rooms, Type, Price, Method, SellerG, Date, Distance, Postcode, Bedroom2, Bathroom, Car, Landsize, BuildingArea,YearBuilt, CouncilArea, Lattitude, Longtitude, Regionname, and Propertycount        
+The dataset has 34857 rows and 21 columns. The columns are - Suburb, Address, Rooms, Type, Price, Method, SellerG, Date, Distance, Postcode, Bedroom2, Bathroom, Car, Landsize, BuildingArea,YearBuilt, CouncilArea, Lattitude, Longtitude, Regionname, and Propertycount.         
 ## Process 
 - Exploratory data anaylsis
 - Outlier removal
