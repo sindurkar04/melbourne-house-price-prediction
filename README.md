@@ -10,6 +10,7 @@ The dataset has 34857 rows and 21 columns. The columns are - Suburb, Address, Ro
 - Sparse data removal 
 - Building and comparing machine learning models 
 ## Technologies used 
+- Python
 - Pandas
 - Numpy 
 - Sklearn 
