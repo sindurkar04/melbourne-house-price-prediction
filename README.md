@@ -15,7 +15,7 @@ The dataset has 34857 rows and 21 columns. The columns are - Suburb, Address, Ro
 - Numpy 
 - Sklearn 
 - Pickle
-## Machine learning models used
+## Machine learning algorithms used
 - Ridge regression
 - LASSO regression
 - KN Regressor
